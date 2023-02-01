@@ -49,7 +49,7 @@ This project is a simple program to track our scores; It allows to input scores 
 
 ## Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://emekaemmanuel.github.io/leaderboard/) 
+- [Live Demo Link](https://emekaemmanuel.github.io/Leaderboard-App/) 
 
 ## Project Presentation <a name="project-presentation"></a>
 
@@ -80,7 +80,7 @@ This project is a simple program to track our scores; It allows to input scores 
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/EmekaEmmanuel/leaderboard.git
+  git clone https://github.com/EmekaEmmanuel/Leaderboard-App.git
 
 ### Install
   -  [Git](https://git-scm.com/downloads)
@@ -117,7 +117,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/leaderboard/issues).
+Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/Leaderboard-App/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
